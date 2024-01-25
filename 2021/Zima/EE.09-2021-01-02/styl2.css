@@ -1,0 +1,46 @@
+header{
+	color: white;
+	text-align: center;
+	height: 330px;
+}
+aside{
+	float: left;
+	color: white;
+	text-align: center;
+	width: 170px;
+	margin: 5px;
+	border-style: solid;
+	border-color: white;
+	border-width: 1px;
+	border-radius: 15px;
+}
+aside:hover{
+	background-color: white;
+	color: black;
+}
+main{
+	color: white;
+	clear: both;
+}
+#left_block{
+	background-color: WhiteSmoke;
+	width: 30%;
+	text-align: center;
+	height: 150px;
+	float: left;
+}
+#right_block{
+	background-color: WhiteSmoke;
+	width: 70%;
+	height: 150px;
+	float: left;
+}
+body{
+	font-family: "Verdana";
+	background-color: SeaGreen;
+}
+h3{
+	text-align: center;
+	letter-spacing: 6px;
+	text-transform: capitalize;
+}

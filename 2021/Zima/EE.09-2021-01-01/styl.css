@@ -1,0 +1,46 @@
+header{
+	color: white;
+	text-align: center;
+	height: 370px;
+}
+section{
+	float: left;
+	color: white;
+	text-align: center;
+	width: 200px;
+	margin: 10px;
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+	border-radius: 10px;
+}
+section:hover{
+	border-color: white;
+}
+main{
+	clear: both;
+	background-color: WhiteSmoke;
+	height: 50px;
+}
+#left_block{
+	float: left;
+	background-color: WhiteSmoke;
+	width: 70%;
+	height: 230px;
+}
+#right_block{
+	float: left;
+	background-color: WhiteSmoke;
+	width: 30%;
+	height: 230px;
+	text-align: right;
+}
+body{
+	font-family: "Tahoma";
+	background-color: Crimson;
+}
+h2{
+	text-align: center;
+	letter-spacing: 7px;
+	text-transform: capitalize;
+}
