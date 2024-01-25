@@ -1,0 +1,53 @@
+*
+{
+	font-family: "Georigia";
+	margin: 0;
+}
+header
+{
+	background-color: #005B4F;
+	color: white;
+	text-align: center;
+	size: 50%;
+	height: 30px;
+}
+article
+{
+	background-color: #E1E2E1;
+	height: 400px;
+	padding: 20px;
+	overflow: scroll;
+}
+img
+{
+	width: 20px;
+	padding: 20px;
+	border-radius: 100%;
+}
+/*Blok opisu jest wyśiwetlany obok zdjęcia, czyli float left*/
+/*HR zgodnie z obrazkiem*/
+footer
+{
+	background-color:#005B4F;
+	color: white;
+	text-align: center;
+	width: 50%;
+	height: 20px;	
+}
+.ft1
+{
+	float: left;
+}
+.ft2
+{
+	float: left;
+}
+h2
+{
+	text-align: center;
+	background-color: #00897B;
+}
+a
+{
+	color: white;
+}

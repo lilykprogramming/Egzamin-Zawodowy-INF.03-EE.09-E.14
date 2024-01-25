@@ -1,0 +1,55 @@
+*
+{
+    font-family: serif;
+}
+header
+{
+    background-image: linear-gradient(#97b498,#c8e6c9);
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+.lewy_blok
+{
+    float: left;
+    background-color: #c8e6c9;
+    color:  #005005;
+    width: 40%;
+    height: 600px;
+}
+.prawy_blok
+{
+
+    color: #005005;
+    width: 60%;
+    height: 600px;
+    overflow: scroll;
+}
+footer
+{
+    clear: both;
+    background-image: linear-gradient(#c8e6c9,#97b498);
+    color: white;
+    padding: 12px;
+}
+video
+{
+    width: 100%;
+}
+form
+{
+    padding-top:10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+button
+{
+    background-color: #97b498;
+    color: white;
+}
+button:hover
+{
+    background-color: white;
+    color: #97b498;
+}

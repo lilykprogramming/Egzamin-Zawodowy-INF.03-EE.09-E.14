@@ -1,0 +1,4 @@
+1.SELECT nazwa, ilosc, producenci.nazwaProd FROM materialy INNER JOIN producenci ON producenci.id=materialy.Producenci_id WHERE ilosc>9;
+2. SELECT nazwa, producenci.nazwaProd, jednostki.nazwaJedn FROM materialy INNER JOIN producenci ON producenci.id = materialy.Producenci_id INNER JOIN jednostki ON jednostki.id = materialy.Jednostki_id;
+3. CREATE USER zaopatrzenie IDENTIFIED BY 'Z@op@trzenie';
+4. GRANT SELECT,UPDATE,INSERT,DELETE ON firma.* TO zaopatrzenie1;

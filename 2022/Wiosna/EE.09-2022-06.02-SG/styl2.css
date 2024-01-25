@@ -1,0 +1,56 @@
+main
+{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: linen;
+    color: #222;
+    margin: auto;
+    width: 90%;
+}
+header
+{
+    float:left;
+    background-color: black;
+    color: white;
+    width: 50%;
+    height: 100px;
+}
+article
+{
+    padding: 20px;
+}
+footer
+{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+table
+{
+    margin: 40px;
+}
+td
+{
+    padding: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+a
+{
+    color: #aaa;
+    text-decoration: none;
+}
+a:hover
+{
+    color: white;
+}
+li
+{
+    float:left;
+    padding: 5px;
+    margin: 10px;
+    border-bottom-style: solid;
+    border-bottom-color: white;
+    border-bottom-width: 1px;
+    list-style-type: none;
+}
