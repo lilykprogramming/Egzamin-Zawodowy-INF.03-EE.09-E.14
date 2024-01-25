@@ -1,0 +1,55 @@
+*
+{
+    font-family: 'Garamond';
+}
+#banner_left
+{
+    background-color: #00600F;
+    color: white;
+    text-align: center;
+    width: 75%;
+    height: 90px;
+    float: left;
+}
+#banner_right
+{
+    background-color: #00600F;
+    color: white;
+    width: 25%;
+    height: 90px;
+    float: left;
+}
+#main_section
+{
+    background-color: #C8E6C9;
+    height: 600;
+    overflow: scroll;
+    float: left;
+}
+.s1
+{
+    margin: 10px;
+    border-style: solid;
+    border-color: #00600F;
+    border-width: 1px;
+    width: 300px;
+    float: left;
+}
+footer
+{
+    background-color: #00600F;
+    color: white;
+    clear: both;
+}
+h5
+{
+    background-color: #00600F;
+    color: white;
+    size: 200%;
+    text-align: center;
+    margin: 0px;
+}
+h2
+{
+    text-align: right;
+}
